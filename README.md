@@ -17,6 +17,7 @@ Today we use GPS and detailed maps find our way.
 Your task is to navigate a route to Hawaii, making stops at every location along the way.
 
 Below is a navigation chart you are to use. Each entry contains an island and its coordinates. 
+Below is a navigation chart you are to use. Each entry contains an island and its coordinates. 
 
 | Island Name      | Lat Deg | Lat Min | Lat Sec | N/S | Lng Deg | Lng Min | Lng Sec | E/W | 
 | ---------------- | ------- | ------- | ------- | --- | ------- | ------- | ------- | --- |
