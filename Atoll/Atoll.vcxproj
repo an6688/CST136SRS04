@@ -159,6 +159,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Latitude.cpp" />
+    <ClCompile Include="Location.cpp" />
     <ClCompile Include="Longitude.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="stdafx.cpp">
