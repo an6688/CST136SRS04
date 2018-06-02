@@ -23,13 +23,17 @@ private:
 	}
 
 public:
-	explicit Range(const value_type value): value_{ (isGood(value)) ? value : KUnboundUpper } // might delete explicit later?
+	/*explicit*/ Range(const value_type value): value_{ (isGood(value)) ? value : KUnboundUpper } // might delete explicit later?
 	{
 	}
 
-	operator value_type()
+	operator value_type() const
 	{
 		return value_; 
 	} 
 }; 
-
+// user defined literals 
+// constexpr long double operator"" _deg(long double deg)
+// {
+	// return deg * 3.141592 / 180;
+// }

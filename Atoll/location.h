@@ -1,13 +1,14 @@
 #pragma once
 #include <string>
+#include "latitude.h"
+#include "longitude.h"
+
 // This entire code borrowed from Professor Besser's github account at: 
 // https://github.com/labermt/CST136SRS04
 
 namespace GPS
 {
-	class Latitude;
-	class Longitude;
-
+	
 	class Location
 	{
 	private:
