@@ -9,4 +9,4 @@ namespace GPS
 	{
 	}
 }
-// tried std::optional but couldnt get to work :( 
+// tried to utilize std::optional but couldnt get to work :( 
