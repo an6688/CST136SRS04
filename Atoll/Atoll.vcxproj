@@ -152,7 +152,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="angle.h" />
-    <ClInclude Include="gps.h" />
     <ClInclude Include="latitude.h" />
     <ClInclude Include="location.h" />
     <ClInclude Include="longitude.h" />

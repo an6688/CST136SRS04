@@ -33,9 +33,6 @@
     <ClInclude Include="range.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="gps.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="location.h">
       <Filter>Header Files</Filter>
     </ClInclude>

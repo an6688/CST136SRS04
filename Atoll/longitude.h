@@ -1,8 +1,7 @@
 #pragma once
-#include "gps.h"
 #include "angle.h"
 
-// This entire code borrowed from Professor Besser's github account at: 
+// Code borrowed from Professor Besser's github account at: 
 // https://github.com/labermt/CST136SRS04
 
 
